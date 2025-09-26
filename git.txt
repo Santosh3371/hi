@@ -1,0 +1,11 @@
+cd
+mkdir
+git status
+git init
+git add .
+git commit -m " "
+git push origin main
+git clone
+git branch
+git checkout (name)
+git pull origin main
