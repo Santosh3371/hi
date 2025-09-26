@@ -1,3 +1,5 @@
+what are the commands that we learned is :
+
 cd
 mkdir
 git status
