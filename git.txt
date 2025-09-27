@@ -11,3 +11,6 @@ git clone
 git branch
 git checkout (name)
 git pull origin main
+git branch <branch_name>
+git checkout -b <branch_name>
+git merge <branch_name>
